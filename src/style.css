@@ -1,0 +1,60 @@
+body {
+    background-color: #111;
+}
+
+.central-mg {
+    padding-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-family: Georgia, serif;
+    text-align: justify;
+    color: #fff;
+    font-size: 22px;
+    font-weight: normal
+}
+
+.voltar {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anterior-b {
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo {
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escopo {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anterior {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.voltar-x {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
